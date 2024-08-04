@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gerrard200-ai
-- 👀 I’m interested in ...front-end
+- 👀 I’m interested in ...front-end, back-end, app-dev, game-dev, etc.
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...building business websites
 - 📫 How to reach me ...email mulengagerrard05@gmail.com
