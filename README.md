@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...front-end
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...building business websites
-- 📫 How to reach me ...email gerrardmulenga05@gmail.com
+- 📫 How to reach me ...email mulengagerrard05@gmail.com
 - 😄 Pronouns: ...male
 - ⚡ Fun fact: ...am completing my certificate on freecodecamp in responsive web design
 
