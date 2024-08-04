@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...building business websites
 - 📫 How to reach me ...email mulengagerrard05@gmail.com
 - 😄 Pronouns: ...male
-- ⚡ Fun fact: ...am open to new ideas
+- ⚡ Fun fact: ...i set goals that are imposible to me.
 
 <!---
 gerrard200-ai/gerrard200-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
