@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @gerrard200-ai
-- 👀 I’m interested in ...Software-dev.
+- 👋 Hi, I'm Mulenga Gerrard
+- 👀 I’ve been coding as a front dev for over 3 years.
 - 🌱 I’m currently learning ... Traditional CS.
-- 💞️ I’m looking to collaborate on ...web-apps
-- 📫 How to reach me ...email mulengagerrard05@gmail.com
-- 😄 Pronouns: ...male
-- ⚡ Fun fact: ...Read to Work.
+- 💞️ I’m learning Rust and Vue.js at the moment
+- 📫 you can email me mulengagerrard05@gmail.com
+  
+  
 
 <!---
 gerrard200-ai/gerrard200-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
